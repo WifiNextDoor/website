@@ -6,11 +6,7 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
+- name: Share WiFi
   link: /
-  new_window: true
-  highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
+  new_window: false
   highlight: true
